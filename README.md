@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor_Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felix-171baa169)](https://www.linkedin.com/in/vitor-felix-171baa169) ^58ec18
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor_Felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felix-171baa169)](https://www.linkedin.com/in/vitor-felix-171baa169) 
 
 
 ### Hello, I'm Vitor Felix 👋
@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-^9e8cd3
